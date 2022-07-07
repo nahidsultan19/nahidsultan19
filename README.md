@@ -5,7 +5,7 @@
 
 - 👨‍💻 My Portfolio Website [https://portfolio-website22-react.netlify.app/](https://portfolio-website22-react.netlify.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TNZgrVkoO1wXts4dcWilfzLjnZ3OsGPu/view?usp=sharing](https://drive.google.com/file/d/1TNZgrVkoO1wXts4dcWilfzLjnZ3OsGPu/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ycG_yfYC8X_L0hDqmq5_XGRn9CMS9Lhj/view?usp=sharing](https://drive.google.com/file/d/1ycG_yfYC8X_L0hDqmq5_XGRn9CMS9Lhj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
