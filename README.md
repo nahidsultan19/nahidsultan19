@@ -5,7 +5,7 @@
 
 - 👨‍💻 My Portfolio Website [https://nahid-sultan-portfolio.netlify.app/](https://nahid-sultan-portfolio.netlify.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ycG_yfYC8X_L0hDqmq5_XGRn9CMS9Lhj/view?usp=sharing](https://drive.google.com/file/d/1ycG_yfYC8X_L0hDqmq5_XGRn9CMS9Lhj/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dHItVN88lSswkdTqA_NK52Qz5IgFX2N9/view?usp=drive_link](https://drive.google.com/file/d/1dHItVN88lSswkdTqA_NK52Qz5IgFX2N9/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
