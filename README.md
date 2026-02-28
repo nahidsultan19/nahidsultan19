@@ -5,7 +5,7 @@
 
 - 👨‍💻 My Portfolio Website [https://nahid-sultan-portfolio.vercel.app/](https://nahid-sultan-portfolio.vercel.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dHItVN88lSswkdTqA_NK52Qz5IgFX2N9/view?usp=drive_link](https://drive.google.com/file/d/1dHItVN88lSswkdTqA_NK52Qz5IgFX2N9/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1W69hS9g_fxXDPGSwN2XRUl6lVuBgU47l/view?usp=drive_link](https://drive.google.com/file/d/1W69hS9g_fxXDPGSwN2XRUl6lVuBgU47l/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
